@@ -1,0 +1,7 @@
+# Systems
+
+```{toctree}
+:glob:
+
+*/index
+```

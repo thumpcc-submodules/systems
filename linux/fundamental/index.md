@@ -1,0 +1,7 @@
+# Fundamental
+
+```{toctree}
+:glob:
+
+*/index
+```
